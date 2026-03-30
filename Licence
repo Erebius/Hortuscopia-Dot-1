@@ -1,0 +1,19 @@
+CERN Open Hardware Licence Version 2 - Permissive
+CERN-OHL-P v2
+
+Copyright (c) 2026 Hortuscopia Robotics
+
+This source describes Open Hardware and is licensed under the CERN-OHL-P v2.
+
+You may redistribute and modify this source and make products using it under
+the terms of the CERN-OHL-P v2 (https://ohwr.org/cern_ohl_p_v2.txt).
+
+This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING
+OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+Please see the CERN-OHL-P v2 for applicable conditions.
+
+Source location: https://github.com/Erebius/Hortuscopia-Dot-1
+
+As per CERN-OHL-P v2 section 4, should you produce hardware based on this
+source, you must maintain the Source Location notice in the design files,
+and in any documentation accompanying the hardware.
